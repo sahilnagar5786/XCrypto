@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/XCrypto/static/js/main.9b40ea31.js",
+    "static/media/Bitcoin.png": "/XCrypto/static/media/Bitcoin.9ae09191f69d41473b43.png",
+    "static/media/1.jpg": "/XCrypto/static/media/1.62ccd630cbc2fe01b9c7.jpg",
+    "index.html": "/XCrypto/index.html",
+    "main.9b40ea31.js.map": "/XCrypto/static/js/main.9b40ea31.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9b40ea31.js"
+  ]
+}
